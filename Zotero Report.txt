@@ -1,0 +1,384 @@
+  *
+
+
+        Biphasic apatite-carbon materials derived from pyrolysed fish
+        bones for effective adsorption of persistent pollutants and
+        heavy metals
+
+    Type 	Journal Article
+    Author 	C. Piccirillo
+    Author 	I. S. Moreira
+    Author 	R. M. Novais
+    Author 	A. J. S. Fernandes
+    Author 	R. C. Pullar
+    Author 	P. M. L. Castro
+    Date 	2017
+    Language 	en
+    Loc. in Archive 	33 ⬚⬚
+    Library Catalog 	7.968 (Q1)
+    Call Number 	2
+    Extra 	Publisher: Elsevier
+    Volume 	5
+    Pages 	4884–4894
+    Publication 	Journal of environmental chemical engineering
+    DOI 	10.1016/j.jece.2017.09.010
+    <http://doi.org/10.1016/j.jece.2017.09.010>
+    Issue 	5
+    Date Added 	4/5/2023, 4:13:08 PM
+    Modified 	4/5/2023, 4:13:19 PM
+
+
+          Tags:
+
+      o /unread
+
+
+          Attachments
+
+      o Piccirillo et al_2017_Biphasic apatite-carbon materials derived
+        from pyrolysed fish bones for.pdf
+
+        *Contents*
+
+          + Introduction <zotero://open-pdf/0_YGLYFALE/1>
+          + Materials and methods <zotero://open-pdf/0_YGLYFALE/2>
+              # Chemical reagents <zotero://open-pdf/0_YGLYFALE/2>
+              # Sample storage <zotero://open-pdf/0_YGLYFALE/2>
+              # Pyrolysis of the bones <zotero://open-pdf/0_YGLYFALE/2>
+              # Characterisation of the powders
+                <zotero://open-pdf/0_YGLYFALE/2>
+              # Adsorption and desorption experiments
+                <zotero://open-pdf/0_YGLYFALE/3>
+              # Chemical analysis <zotero://open-pdf/0_YGLYFALE/3>
+              # Mathematical fitting of the data
+                <zotero://open-pdf/0_YGLYFALE/3>
+          + Results <zotero://open-pdf/0_YGLYFALE/3>
+              # Characterisation of the powders
+                <zotero://open-pdf/0_YGLYFALE/3>
+              # Adsorption studies <zotero://open-pdf/0_YGLYFALE/7>
+          + Discussion <zotero://open-pdf/0_YGLYFALE/8>
+          + Conclusions <zotero://open-pdf/0_YGLYFALE/10>
+          + Acknowledgments <zotero://open-pdf/0_YGLYFALE/10>
+          + Supplementary data <zotero://open-pdf/0_YGLYFALE/10>
+          + References <zotero://open-pdf/0_YGLYFALE/10>
+  *
+
+
+        EDTA impact on Cd2+ migration in apatite–water system
+
+    Type 	Journal Article
+    Author 	Kaia Tõnsuaadu
+    Author 	Karin Viipsi
+    Author 	Andres Trikkel
+    Date 	2008
+    Language 	en
+    Loc. in Archive 	24 ⬚⬚
+    Library Catalog 	14.224 (Q1)
+    Call Number 	1
+    Extra 	Publisher: Elsevier
+    Volume 	154
+    Pages 	491–497
+    Publication 	Journal of Hazardous Materials
+    DOI 	10.1016/j.jhazmat.2007.10.051
+    <http://doi.org/10.1016/j.jhazmat.2007.10.051>
+    Issue 	1-3
+    Date Added 	4/5/2023, 4:13:08 PM
+    Modified 	4/5/2023, 4:13:15 PM
+
+
+          Tags:
+
+      o /unread
+
+
+          Attachments
+
+      o Tõnsuaadu et al_2008_EDTA impact on Cd2+ migration in
+        apatite–water system.pdf
+  *
+
+
+        Evaluation of heavy metal remediation using mineral apatite
+
+    Type 	Journal Article
+    Author 	Xiaobing Chen
+    Author 	Judith V. Wright
+    Author 	James L. Conca
+    Author 	Loni M. Peurrung
+    Date 	1997
+    Language 	en
+    Library Catalog 	Google Scholar
+    Extra 	Publisher: Springer
+    Volume 	98
+    Pages 	57–78
+    Publication 	Water, Air, and Soil Pollution
+    Date Added 	4/5/2023, 4:13:08 PM
+    Modified 	4/5/2023, 4:13:12 PM
+
+
+          Tags:
+
+      o /unread
+
+
+          Attachments
+
+      o Chen et al_1997_Evaluation of heavy metal remediation using
+        mineral apatite.pdf
+  *
+
+
+        Feasibility of using natural fishbone apatite as a substitute
+        for hydroxyapatite in remediating aqueous heavy metals
+
+    Type 	Journal Article
+    Author 	Wudneh Admassu
+    Author 	Tom Breese
+    Date 	1999
+    Language 	en
+    Loc. in Archive 	87 ⬚⬚
+    Library Catalog 	14.224 (Q1)
+    Call Number 	1
+    Extra 	Publisher: Elsevier
+    Volume 	69
+    Pages 	187–196
+    Publication 	Journal of Hazardous Materials
+    DOI 	10.1016/S0304-3894(99)00102-8
+    <http://doi.org/10.1016/S0304-3894(99)00102-8>
+    Issue 	2
+    Date Added 	4/5/2023, 4:13:08 PM
+    Modified 	4/5/2023, 4:13:23 PM
+
+
+          Tags:
+
+      o /unread
+
+
+          Attachments
+
+      o Admassu_Breese_1999_Feasibility of using natural fishbone
+        apatite as a substitute for.pdf
+  *
+
+
+        In situ immobilization of heavy metals in apatite mineral
+        formulations
+
+    Type 	Report
+    Author 	Judith V. Wright
+    Author 	Loni M. Peurrung
+    Author 	Timothy E. Moody
+    Author 	James L. Conca
+    Author 	Xiaobing Chen
+    Author 	Paul P. Didzerekis
+    Author 	Eri Wysek
+    Date 	1995
+    Language 	en
+    Library Catalog 	Google Scholar
+    Institution 	BAT℡LE PACIFIC NORTHWEST LABS RICHLAND WA
+    Date Added 	4/5/2023, 4:13:08 PM
+    Modified 	4/5/2023, 4:13:10 PM
+
+
+          Tags:
+
+      o /unread
+  *
+
+
+        Removal of cadmium, copper, nickel, cobalt and mercury from
+        water by Apatite II™: Column experiments
+
+    Type 	Journal Article
+    Author 	Josep Oliva
+    Author 	Joan De Pablo
+    Author 	José-Luis Cortina
+    Author 	Jordi Cama
+    Author 	Carlos Ayora
+    Date 	2011
+    Language 	en
+    Short Title 	Removal of cadmium, copper, nickel, cobalt and mercury
+    from water by Apatite II™
+    Loc. in Archive 	112 ⬚⬚
+    Library Catalog 	14.224 (Q1)
+    Call Number 	1
+    Extra 	Publisher: Elsevier
+    Volume 	194
+    Pages 	312–323
+    Publication 	Journal of hazardous materials
+    DOI 	10.1016/j.jhazmat.2011.07.104
+    <http://doi.org/10.1016/j.jhazmat.2011.07.104>
+    Date Added 	4/5/2023, 4:13:08 PM
+    Modified 	4/5/2023, 4:13:21 PM
+
+
+          Tags:
+
+      o /unread
+
+
+          Attachments
+
+      o Oliva et al_2011_Removal of cadmium, copper, nickel, cobalt and
+        mercury from water by Apatite II™.pdf
+  *
+
+
+        Removal of heavy metals (lead, cadmium, zinc, nickel and iron)
+        from water by bio-ceramic absorbers of hydroxy-apatite
+        microparticles
+
+    Type 	Journal Article
+    Author 	N. Moayyeri
+    Author 	K. Saeb
+    Author 	E. Biazar
+    Date 	2013
+    Language 	en
+    Library Catalog 	Google Scholar
+    Extra 	Publisher: Islamic Azad University Science and Research Branch
+    Volume 	3
+    Pages 	13–16
+    Publication 	International Journal of Marine Science and Environment
+    Issue 	1
+    Date Added 	4/5/2023, 4:13:08 PM
+    Modified 	4/5/2023, 4:13:10 PM
+
+
+          Tags:
+
+      o /unread
+  *
+
+
+        Role of phosphate in the remediation and reuse of heavy metal
+        polluted wastes and sites
+
+    Type 	Journal Article
+    Author 	Ange Nzihou
+    Author 	Patrick Sharrock
+    Date 	2010
+    Language 	en
+    Loc. in Archive 	104 ⬚⬚
+    Library Catalog 	3.449 (Q3)
+    Call Number 	4
+    Extra 	Publisher: Springer
+    Volume 	1
+    Pages 	163–174
+    Publication 	Waste and Biomass Valorization
+    DOI 	10.1007/s12649-009-9006-x
+    <http://doi.org/10.1007/s12649-009-9006-x>
+    Date Added 	4/5/2023, 4:13:08 PM
+    Modified 	4/5/2023, 4:13:20 PM
+
+
+          Tags:
+
+      o /unread
+
+
+          Attachments
+
+      o Nzihou_Sharrock_2010_Role of phosphate in the remediation and
+        reuse of heavy metal polluted wastes.pdf
+  *
+
+
+        Stabilization of heavy metal contaminated marine sediments with
+        red mud and apatite composite
+
+    Type 	Journal Article
+    Author 	Wooseok Shin
+    Author 	Young-Kee Kim
+    Date 	2016
+    Language 	en
+    Loc. in Archive 	31 ⬚⬚
+    Library Catalog 	3.536 (Q2)
+    Call Number 	3
+    Extra 	Publisher: Springer
+    Volume 	16
+    Pages 	726–735
+    Publication 	Journal of soils and sediments
+    DOI 	10.1007/s11368-015-1279-z
+    <http://doi.org/10.1007/s11368-015-1279-z>
+    Date Added 	4/5/2023, 4:13:08 PM
+    Modified 	4/5/2023, 4:13:17 PM
+
+
+          Tags:
+
+      o /unread
+
+
+          Attachments
+
+      o Shin_Kim_2016_Stabilization of heavy metal contaminated marine
+        sediments with red mud and.pdf
+
+        *Contents*
+
+          + Abstract <zotero://open-pdf/0_L6UZGIL4/1>
+          + Abstract <zotero://open-pdf/0_L6UZGIL4/1>
+          + Abstract <zotero://open-pdf/0_L6UZGIL4/1>
+          + Abstract <zotero://open-pdf/0_L6UZGIL4/1>
+          + Abstract <zotero://open-pdf/0_L6UZGIL4/1>
+          + Introduction <zotero://open-pdf/0_L6UZGIL4/1>
+          + Materials and methods <zotero://open-pdf/0_L6UZGIL4/2>
+              # Sediments and amendments <zotero://open-pdf/0_L6UZGIL4/2>
+              # Batch stabilization experiment
+                <zotero://open-pdf/0_L6UZGIL4/3>
+              # Sequential extraction procedure
+                <zotero://open-pdf/0_L6UZGIL4/3>
+              # TCLP <zotero://open-pdf/0_L6UZGIL4/4>
+              # PERI <zotero://open-pdf/0_L6UZGIL4/4>
+          + Results and discussion <zotero://open-pdf/0_L6UZGIL4/4>
+              # Characteristics of amendments and contaminated sediment
+                <zotero://open-pdf/0_L6UZGIL4/4>
+              # Change of heavy-metal fractions in sediment samples by
+                amendment treatment <zotero://open-pdf/0_L6UZGIL4/5>
+              # Potential mobility and ecological risk assessment of
+                heavy metals <zotero://open-pdf/0_L6UZGIL4/7>
+          + Conclusions <zotero://open-pdf/0_L6UZGIL4/9>
+          + References <zotero://open-pdf/0_L6UZGIL4/9>
+  *
+
+
+        The use of Apatite II™ to remove divalent metal ions zinc (II),
+        lead (II), manganese (II) and iron (II) from water in passive
+        treatment systems: Column experiments
+
+    Type 	Journal Article
+    Author 	Josep Oliva
+    Author 	Joan De Pablo
+    Author 	José-Luis Cortina
+    Author 	Jordi Cama
+    Author 	Carlos Ayora
+    Date 	2010
+    Language 	en
+    Short Title 	The use of Apatite II™ to remove divalent metal ions
+    zinc (II), lead (II), manganese (II) and iron (II) from water in
+    passive treatment systems
+    Loc. in Archive 	59 ⬚⬚
+    Library Catalog 	14.224 (Q1)
+    Call Number 	1
+    Extra 	Publisher: Elsevier
+    Volume 	184
+    Pages 	364–374
+    Publication 	Journal of hazardous materials
+    DOI 	10.1016/j.jhazmat.2010.08.045
+    <http://doi.org/10.1016/j.jhazmat.2010.08.045>
+    Issue 	1-3
+    Date Added 	4/5/2023, 4:13:08 PM
+    Modified 	4/5/2023, 4:13:16 PM
+
+
+          Tags:
+
+      o /unread
+
+
+          Attachments
+
+      o Oliva et al_2010_The use of Apatite II™ to remove divalent metal
+        ions zinc (II), lead (II),.pdf
+
